@@ -1,4 +1,4 @@
-# Brain-Tumor-Prediction-System
+# Brain-Tumor-Prediction-System with CNN
 
 This prediction system for brain tumor type is trained with pytorch and tensorflow in python.
 
